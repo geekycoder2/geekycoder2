@@ -8,14 +8,6 @@ HTML, CSS, JavaScript,Typescript,Next.js
 
 Basics of Web Development
 
-📘 Recent Achievements:
-
-Completed 45 TypeScript assignment questions
-
-Created an ATM Machine with TypeScript
-
-Created a Calculator using TypeScript
-
 🌱 Goals:
 
 Build my first personal website
