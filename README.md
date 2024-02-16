@@ -20,13 +20,16 @@ Created a Calculator using TypeScript
 
 Build my first personal website
 Contribute to open source projects
+
 👩‍💻 Tech Stack:
 
 VS Code
 Interested in front-end technologies
+
 🎯 Current Project:
 
 Working on a simple portfolio site
+
 🎉 Fun Fact:
 
 Coding is my superpower in the making!
